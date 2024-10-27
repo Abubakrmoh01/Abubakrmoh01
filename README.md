@@ -28,5 +28,4 @@
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakrmoh01&theme=algolia"
  alt="abubakrmoh01" /></p>
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abubakrmoh01&theme=algolia" alt="abubakrmoh01" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakrmoh01&show_icons=true&theme=dark&locale=en" alt="abubakrmoh01" /></p>
