@@ -14,7 +14,7 @@
 
 - ⚡ Fact **NO Pain NO Gain**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/abubakr-mohamed-54314a304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abubakr-mohamed-54314a304" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009418664775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009418664775" height="30" width="40" /></a>
