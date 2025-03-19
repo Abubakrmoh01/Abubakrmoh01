@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abubakrmoh01@gmail.com**
 
-- 📄 Know about my experiences [https://abubakrmoh01.github.io/AbubakarMuhammad.github.io](https://abubakrmoh01.github.io/AbubakarMuhammad.github.io)
+- 📄 Know about my experiences [https://abubakrmoh01.github.io/AbubakarMuhammad.github.io](https://abubakrmoh01.github.io/Abubakar_Muhammad-Portfolio)
 
 - ⚡ Fact **NO Pain NO Gain**
 <a target="_blank" align="center">
