@@ -52,4 +52,4 @@ Full-Stack Developer with 4 years of hands-on project experience in architecting
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakrmoh01&show_icons=true&theme=dark&locale=en&layout=compact" alt="abubakrmoh01" />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abubakrmoh01&theme=dark" alt="GitHub Streak" /></a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakrmoh01&show_icons=true&theme=dark&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakrmoh01&show_icons=true&theme=dark&locale=en" alt="abubakrmoh01" /></p>
