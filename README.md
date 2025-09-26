@@ -1,84 +1,55 @@
+<a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D0096CF%26width%3D435%26lines%3DHi%2B%25F0%259F%2591%258B%252C%2BI%27m%2BAbubakr%2BMohamed%3BFull-Stack%2BDeveloper%3BC%2523%2B%257C%2B.NET%2B%257C%2BReact%2B%257C%2BSQL%3BLet%27s%2Bbuild%2Bsomething%2Bamazing!%2B%25E2%259A%25A1" alt="Typing SVG" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakrmoh01&label=Profile%20views&color=b40e0e&style=flat" alt="abubakrmoh01" /> </p>
+
+Full-Stack Developer with 4 years of hands-on project experience in architecting, developing, and deploying scalable web and desktop applications. Expertise in C#, .NET (ASP.NET Web API, WinForms), React, and MS SQL Server, coupled with a strong understanding of OOP, RESTful API design, and data structures.
+
+🔭 I’m currently working on Driving & Vehicle License Department (DVLD) System DVLD
+
+👨‍💻 All of my projects are available at https://github.com/Abubakrmoh01
+
+💬 Ask me about C#, .NET, ASP.NET Web API, React, C++, SQL, & Data Structures
+
+📫 How to reach me: abubakrmoh01@gmail.com
+
+📄 Know about my experiences: My Portfolio
+
+⚡ Fun fact: NO Pain NO Gain
+
 <a target="_blank" align="center">
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-Abubakr Mohamed | Full-Stack Developer
-<a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D0096CF%26width%3D435%26lines%3DHi%2B%25F0%259F%2591%258B%252C%2BI%27m%2BAbubakr%2BMohamed%3BFull-Stack%2BDeveloper%3BC%2523%2B%257C%2B.NET%2B%257C%2BReact%2B%257C%2BSQL%3BLet%27s%2Bbuild%2Bsomething%2Bamazing!%2B%25E2%259A%25A1" alt="Typing SVG" /></a>
-
-مطور برمجيات متكامل (Full-Stack) لدي خبرة عملية لأكثر من 4 سنوات في تصميم وتطوير ونشر تطبيقات الويب وتطبيقات سطح المكتب. متخصص في استخدام C#, .NET (ASP.NET Web API, WinForms), React, و MS SQL Server. أمتلك قدرة مثبتة على تحويل المتطلبات المعقدة إلى حلول فعالة وعالية الأداء، وشغوف بالتعلم المستمر والمساهمة في تطوير برمجيات مبتكرة تضيف قيمة للعمل.
-
-🤝 تواصل معي | Connect with Me
+<h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝</h3>
 <p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/abubakr-mohamed-54314a304" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/abubakr-mohamed-54314a304" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://github.com/Abubakrmoh01" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
-</a>
-<a href="mailto:abubakrmoh01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100009418664775" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" alt="Facebook"/>
-</a>
-<a href="https://www.google.com/search?q=https://abubakrmoh01.github.io/Abubakar_Muhammad-Portfolio/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-252525%3Fstyle%3Dfor-the-badge%26logo%3Dfiles%26logoColor%3Dwhite" alt="Portfolio"/>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 </p>
 
-🛠️ المهارات التقنية | Technical Skills
-الفئة
-
-التقنيات
-
-Programming Languages
-
-C# C++ JavaScript SQL
-
-Frameworks & Libraries
-
-.NET (ASP.NET Web API, ADO.NET, WinForms) React Node.js Tailwind CSS
-
-Databases
-
-MS SQL Server (T-SQL)
-
-Tools & Platforms
-
-Git GitHub Visual Studio
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-🚀 أبرز المشاريع | Featured Projects
-🚗 Driving & Vehicle License Department (DVLD) System
-الوصف: تطبيق سطح مكتب شامل لإدارة رخص القيادة والمركبات بشكل آلي.
-
-التأثير: ساهم في تقليل وقت المعالجة اليدوية بنسبة 40% وتحسين الكفاءة التشغيلية.
-
-التقنيات: C#, .NET WinForms, MS SQL Server, OOP, ADO.NET.
-
-⚙️ RESTful API & Backend Development
-الوصف: تصميم وتطوير ونشر واجهات برمجية (RESTful APIs) وخدمات خلفية باستخدام ASP.NET Web API.
-
-التأثير: تحسين زمن استجابة الـ API بنسبة 25% وضمان اتصال آمن وقابل للتوسع للبيانات.
-
-التقنيات: C#, ASP.NET Web API, SQL Server, RESTful principles.
-
-📊 إحصائيات GitHub | GitHub Stats
-<p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dabubakrmoh01%26show_icons%3Dtrue%26theme%3Ddark%26locale%3Den%26bg_color%3D161b22%26title_color%3D0096CF%26text_color%3Dc9d1d9" alt="Abubakr's GitHub stats"/>
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dabubakrmoh01%26show_icons%3Dtrue%26theme%3Ddark%26locale%3Den%26layout%3Dcompact%26bg_color%3D161b22%26title_color%3D0096CF%26text_color%3Dc9d1d9" alt="Top Langs"/>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakrmoh01&show_icons=true&theme=dark&locale=en&layout=compact" alt="abubakrmoh01" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abubakrmoh01&theme=dark" alt="GitHub Streak" /></a>
 </p>
-<p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dabubakrmoh01%26theme%3Ddark%26background%3D161b22%26currStreakLabel%3D0096CF" alt="GitHub Streak" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakrmoh01&show_icons=true&theme=dark&locale=en"
