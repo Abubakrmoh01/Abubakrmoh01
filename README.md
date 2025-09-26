@@ -2,21 +2,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakrmoh01&label=Profile%20views&color=b40e0e&style=flat" alt="abubakrmoh01" /> </p>
 
-[cite_start]Full-Stack Developer with 4 years of hands-on project experience in architecting, developing, and deploying scalable web and desktop applications[cite: 11]. [cite_start]Expertise in C#, .NET (ASP.NET Web API, WinForms), React, and MS SQL Server, coupled with a strong understanding of OOP, RESTful API design, and data structures[cite: 12].
+Full-Stack Developer with 4 years of hands-on project experience in architecting, developing, and deploying scalable web and desktop applications. Expertise in C#, .NET (ASP.NET Web API, WinForms), React, and MS SQL Server, coupled with a strong understanding of OOP, RESTful API design, and data structures.
 
 ---
 
 ### 🌱 About Me
 
-- [cite_start]🔭 I’m currently working on the **Driving & Vehicle License Department (DVLD) System**, a comprehensive desktop application to automate license management using C# and .NET WinForms[cite: 24, 25, 26].
+- 🔭 I’m currently working on the **Driving & Vehicle License Department (DVLD) System**, a comprehensive desktop application to automate license management using C# and .NET WinForms.
 
-- [cite_start]👨‍💻 All of my projects are available at [https://github.com/Abubakrmoh01](https://github.com/Abubakrmoh01) [cite: 8]
+- 👨‍💻 All of my projects are available at [https://github.com/Abubakrmoh01](https://github.com/Abubakrmoh01) 
 
-- [cite_start]💬 Ask me about **C#, C++, .NET (ASP.NET Web API, WinForms), React, MS SQL Server, RESTful APIs, OOP, & Data Structures**[cite: 12, 16, 17, 18, 19].
+- 💬 Ask me about **C#, C++, .NET (ASP.NET Web API, WinForms), React, MS SQL Server, RESTful APIs, OOP, & Data Structures**.
 
-- [cite_start]📫 How to reach me: [abubakrmoh01@gmail.com](mailto:abubakrmoh01@gmail.com) [cite: 6]
+- 📫 How to reach me: [abubakrmoh01@gmail.com](mailto:abubakrmoh01@gmail.com) 
 
-- [cite_start]📄 Know about my experiences: [My Portfolio](https://abubakrmoh01.github.io/Abubakar_Muhammad-Portfolio/) [cite: 9]
+- 📄 Know about my experiences: [My Portfolio](https://abubakrmoh01.github.io/Abubakar_Muhammad-Portfolio/) 
 
 - ⚡ Fun fact: **NO Pain NO Gain**
 
